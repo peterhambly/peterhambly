@@ -1,2 +1,2 @@
 
-Repository to allow me to create a Jekyll blog at: https://peterhambly.github.io/blog
+See my Jekyll blog at: https://peterhambly.github.io/blog
