@@ -1,2 +1,2 @@
-# petrerhambly
-Repository to allow me to create a Jekyll blog
+
+See my Jekyll blog at: https://peterhambly.github.io/blog
